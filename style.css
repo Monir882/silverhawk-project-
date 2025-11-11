@@ -312,3 +312,25 @@ font-weight: 600;
     font-weight: 800;
     text-decoration: none;
 }
+.footer-section{
+   text-align: center;
+   padding-top: 50px;
+   padding-bottom: 50px;
+
+}
+.footer-section i{
+    color: #837c7c;
+    border: 1px solid;
+    font-size: 15px;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer-section  .fa-square-twitter{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
