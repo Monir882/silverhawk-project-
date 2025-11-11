@@ -334,3 +334,18 @@ font-weight: 600;
     margin-right: 10px;
 
 }
+.socket-icon{
+ background: #000000;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.socket-icon p{
+    color: #fff;
+}
+.socket-icon a{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
