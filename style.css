@@ -213,3 +213,25 @@ padding-top: 25px;
 .service-section{
 padding-bottom: 80px;
 }
+.about-section{
+background-image: url(image/Untitled-6.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.about-section .row{
+display: grid;
+grid-template-columns: 1fr 1fr;
+padding-top: 80px;
+padding-bottom: 80px;
+align-items: center;
+}
+.about-section{
+width: 100%;
+margin-bottom: 50px;
+}
+.row .about-heading-icon{
+width: 100px;
+margin-top: 20px;
+
+
+}
